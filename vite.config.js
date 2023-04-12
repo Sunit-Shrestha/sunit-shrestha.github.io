@@ -1,14 +1,13 @@
 import { resolve } from "path";
 import { defineConfig } from "vite";
 
-const root = resolve(__dirname, "src");
 export default defineConfig({
-  root: "src",
   build: {
-    outDir: "dist",
+    outDir: "build",
     rollupOptions: {
       input: {
-        main: resolve(root, "index.html"),
+        main: resolve(__dirname, "index.html"),
+        chess: resolve(__dirname, "chess/index.html"),
       },
     },
   },
