@@ -1,4 +1,4 @@
-# 👋 Hello there!
+# 👋 Hello there! I'm Sunit Shrestha
 
 I'm a 3rd year Computer Engineering student at Pulchowk Campus with a deep love for **science, math, and technology** 🔬📐💻. Ever since I can remember, I've been the kind of person who *has to know how things work* — whether it's peeling back the layers of an ML model or understanding the universe through the lens of physics and math 🌌.
 
