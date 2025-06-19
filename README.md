@@ -40,8 +40,8 @@ I live for those *"aha!"* moments — when an abstract concept suddenly clicks o
 
 ## 🎮 Fun Projects
 
-- **🧠 Evolution Game**: Designed a 2D ecosystem of organisms with different cell types and trained an AI using NEAT (a genetic reinforcement learning algorithm).
-- **🪟 SimpleXWM**: A minimal Xorg window manager that adds GUI functionality to the Linux terminal — fast, simple, and student-friendly.
+- **🧠 Evolution Game**: Designed a 2D ecosystem of organisms with different cell types and trained an AI for it using NEAT (a genetic reinforcement learning algorithm).
+- **🪟 SimpleXWM**: A minimal Xorg window manager that adds GUI functionality to the Linux terminal
 - **🔧 Parallel CPU Architecture**: Built a simplified multi-core CPU design to make it easier for students to understand both the *circuit-level* and *conceptual* layers.
 
 ---
